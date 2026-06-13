@@ -1,0 +1,13 @@
+{
+  "version": "0.0.6",
+  "buildNumber": 6,
+  "releaseDate": "2026-06-13",
+  "forceUpdate": false,
+  "changelog": [
+    "Система автоматического обновления приложения",
+    "Иконка в сплэшскрине и ярлыке пуска",
+    "Автоматическое получение прав UAC для установщика"
+  ],
+  "downloadUrl": "https://github.com/norachchan/unseenconnect-desktop/releases/latest/download/UnseenConnect-Setup.exe",
+  "sha256": "4cbc7f1440566205fcf9e231eb091c2da1b2680ba0f7c4a495e6aee8b6b80acf"
+}
