@@ -1,6 +1,6 @@
 {
   "version": "0.0.8",
-  "buildNumber": 8,
+  "buildNumber": 9,
   "releaseDate": "2026-06-26",
   "forceUpdate": true,
   "changelog": [
@@ -10,5 +10,5 @@
     "Добавлено: поддержка ключей (JSON / XHTTP)"
   ],
   "downloadUrl": "https://github.com/norachchan/unseenconnect-desktop/releases/latest/download/UnseenConnect-Setup.exe",
-  "sha256": "d3db9ed5512e865a757c1bb6238b9a23a4d0f1f5a323a2a1416f6284651d737d"
+  "sha256": "e2d4451c1129f287d53b22e61ee1c99c77cc04605aef7738de0845c28d546305"
 }
